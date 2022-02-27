@@ -1,0 +1,15 @@
+C:\Users\zupdi\source\repos\3x+1\bin\Debug\net6.0\3x+1.exe
+C:\Users\zupdi\source\repos\3x+1\bin\Debug\net6.0\3x+1.deps.json
+C:\Users\zupdi\source\repos\3x+1\bin\Debug\net6.0\3x+1.runtimeconfig.json
+C:\Users\zupdi\source\repos\3x+1\bin\Debug\net6.0\3x+1.dll
+C:\Users\zupdi\source\repos\3x+1\bin\Debug\net6.0\ref\3x+1.dll
+C:\Users\zupdi\source\repos\3x+1\bin\Debug\net6.0\3x+1.pdb
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\3x+1.csproj.AssemblyReference.cache
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\3x+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\3x+1.AssemblyInfoInputs.cache
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\3x+1.AssemblyInfo.cs
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\3x+1.csproj.CoreCompileInputs.cache
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\3x+1.dll
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\ref\3x+1.dll
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\3x+1.pdb
+C:\Users\zupdi\source\repos\3x+1\obj\Debug\net6.0\3x+1.genruntimeconfig.cache
